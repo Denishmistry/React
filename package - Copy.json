@@ -1,5 +1,4 @@
 {
-  "Homepage":"http://Denishmistry.github.io/React",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -11,8 +10,6 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
